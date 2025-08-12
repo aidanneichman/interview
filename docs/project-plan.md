@@ -1,0 +1,1 @@
+Build a Python backend service with a single /summarize endpoint that accepts text via POST, sends it to Claude’s API for summarization, and returns the summary as JSON. Include a minimal HTML/JS frontend with a text input and “Summarize” button, managed entirely with Python Poetry for dependencies and tested with pytest (plus an optional Playwright check for the UI).
